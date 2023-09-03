@@ -4,7 +4,6 @@ This file is a simple implementation of a neural network using the tensorflow ke
 
 
 
-**Execution.
+**Execution**
 The program is a python script with .ipynb extension, which means that it can be easily visualized in development environments such as visual studio code, colab, deepnote and others. 
 
-Translated with www.DeepL.com/Translator (free version)
